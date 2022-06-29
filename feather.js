@@ -3,7 +3,6 @@ if (SERVER) {
     const { readFileSync } = require("fs");
     const { join } = require("path");
 }
-//REMOVE CODE AFTER COMPILE
 
 //? Basic configuration for Feather.js
 const config = {
